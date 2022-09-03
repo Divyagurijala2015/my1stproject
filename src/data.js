@@ -39,6 +39,14 @@ const data = {
             price:5000,
           },
 
+          {
+            id:5,
+            img:img5,
+            title:'camera',
+            desc:'',
+            price:5000,
+          },
+
     ],
 }
 
